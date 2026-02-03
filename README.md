@@ -58,7 +58,8 @@ Creates a dashboard and profile system using modular components. Demonstrates re
 - Portfolio-style UI
 
 <img width="1853" height="853" alt="image" src="https://github.com/user-attachments/assets/f315bc1c-25e3-48eb-a09b-0a58041c2023" />
-https://github.com/user-attachments/assets/c197cfc7-9e29-4e68-bbf0-78814de547a2
+
+![Experiment 3 Profile Demo](https://github.com/user-attachments/assets/c197cfc7-9e29-4e68-bbf0-78814de547a2)
 
 ---
 
